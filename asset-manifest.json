@@ -1,25 +1,20 @@
 {
   "files": {
-    "main.css": "/static/css/main.875b6988.chunk.css",
-    "main.js": "/static/js/main.c708edc4.chunk.js",
-    "main.js.map": "/static/js/main.c708edc4.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.e9923db2.js",
-    "runtime-main.js.map": "/static/js/runtime-main.e9923db2.js.map",
-    "static/js/2.4d1b773b.chunk.js": "/static/js/2.4d1b773b.chunk.js",
-    "static/js/2.4d1b773b.chunk.js.map": "/static/js/2.4d1b773b.chunk.js.map",
+    "main.css": "/static/css/main.8c714533.chunk.css",
+    "main.js": "/static/js/main.5a1d0d71.chunk.js",
+    "main.js.map": "/static/js/main.5a1d0d71.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.86b9ab49.js",
+    "runtime-main.js.map": "/static/js/runtime-main.86b9ab49.js.map",
+    "static/js/2.20cd9b2f.chunk.js": "/static/js/2.20cd9b2f.chunk.js",
+    "static/js/2.20cd9b2f.chunk.js.map": "/static/js/2.20cd9b2f.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.84e25ead16176b0c8d853a8eee808678.js": "/precache-manifest.84e25ead16176b0c8d853a8eee808678.js",
+    "precache-manifest.cbc7b24d7450219b10748a2c3b51efb1.js": "/precache-manifest.cbc7b24d7450219b10748a2c3b51efb1.js",
     "service-worker.js": "/service-worker.js",
-    "static/css/main.875b6988.chunk.css.map": "/static/css/main.875b6988.chunk.css.map",
-    "static/js/2.4d1b773b.chunk.js.LICENSE.txt": "/static/js/2.4d1b773b.chunk.js.LICENSE.txt",
-    "static/media/1.png": "/static/media/1.d6383c80.png",
-    "static/media/2.png": "/static/media/2.78c67b6f.png",
-    "static/media/3.png": "/static/media/3.3720de4a.png",
-    "static/media/FAQImage.png": "/static/media/FAQImage.18880206.png",
+    "static/css/main.8c714533.chunk.css.map": "/static/css/main.8c714533.chunk.css.map",
+    "static/js/2.20cd9b2f.chunk.js.LICENSE.txt": "/static/js/2.20cd9b2f.chunk.js.LICENSE.txt",
     "static/media/account.png": "/static/media/account.a7361eb5.png",
     "static/media/accountant.png": "/static/media/accountant.b4dc9e96.png",
     "static/media/home.sass": "/static/media/back3.8046f140.jpg",
-    "static/media/partner.sass": "/static/media/back4.7996da0a.jpg",
     "static/media/bank.png": "/static/media/bank.4344c00e.png",
     "static/media/biometric.png": "/static/media/biometric.486af252.png",
     "static/media/bitcoin.png": "/static/media/bitcoin.709e83ea.png",
@@ -45,9 +40,9 @@
     "static/media/worker.png": "/static/media/worker.73b62a17.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.e9923db2.js",
-    "static/js/2.4d1b773b.chunk.js",
-    "static/css/main.875b6988.chunk.css",
-    "static/js/main.c708edc4.chunk.js"
+    "static/js/runtime-main.86b9ab49.js",
+    "static/js/2.20cd9b2f.chunk.js",
+    "static/css/main.8c714533.chunk.css",
+    "static/js/main.5a1d0d71.chunk.js"
   ]
 }
